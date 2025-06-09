@@ -21,4 +21,5 @@ return [
     'manage_users' => 'Manage Users',
     'edit_roles' => 'Edit Roles',
     'impersonate' => 'Impersonate',
+    'edit_users' => 'Edit Users',
 ];
